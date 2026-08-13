@@ -1,97 +1,12 @@
-حتماً پدی 👍 با توجه به پروژه Gemini-voice که در عکس مشخصه، این متن برای README.md مناسبه و می‌تونی مستقیم داخل همین کادر GitHub پیست کنی:
+<div align="center">
 
-🎙️ Gemini Voice — دستیار صوتی هوشمند فارسی
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
-Gemini Voice یک دستیار صوتی هوشمند مبتنی بر Google Gemini است که امکان دریافت صدا، پردازش گفتار و تولید پاسخ صوتی را فراهم می‌کند.
+  <h1>Built with AI Studio</h2>
 
-این پروژه با هدف ایجاد یک تجربه سریع و طبیعی برای گفت‌وگوی صوتی فارسی طراحی شده و قابلیت توسعه برای ترجمه زنده، خواندن زیرنویس و دستیار صوتی موبایل را دارد.
+  <p>The fastest path from prompt to production with Gemini.</p>
 
-✨ قابلیت‌ها
+  <a href="https://aistudio.google.com/apps">Start building</a>
 
-- 🎤 دریافت ورودی صوتی از کاربر
-- 🤖 پردازش هوشمند با Google Gemini
-- 🗣️ پاسخ صوتی
-- 🇮🇷 پشتیبانی از زبان فارسی
-- ⚡ ارتباط لحظه‌ای با WebSocket
-- 🌐 رابط وب برای استفاده روی موبایل و دسکتاپ
-- 🎬 قابلیت توسعه برای خواندن و ترجمه زیرنویس ویدئو
-- 🔊 مناسب برای ساخت دستیار صوتی و سیستم ترجمه زنده
-
-🏗️ ساختار پروژه
-
-Gemini-voice/
-├── frontend/          # رابط کاربری
-├── main.py            # اجرای سرور
-├── gemini_live.py     # ارتباط با Gemini
-├── .env.example       # نمونه تنظیمات محیطی
-├── Dockerfile         # اجرای پروژه با Docker
-└── README.md
-
-🔑 تنظیم API
-
-ابتدا فایل ".env" را ایجاد کنید:
-
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-
-به جای "YOUR_GEMINI_API_KEY" کلید API مربوط به Gemini را قرار دهید.
-
-⚠️ کلید API را داخل GitHub قرار ندهید و فایل ".env" را در ".gitignore" قرار دهید.
-
-📦 نصب وابستگی‌ها
-
-pip install -r requirements.txt
-
-در صورت استفاده از Termux:
-
-pkg update -y
-pkg install python ffmpeg -y
-pip install -r requirements.txt
-
-▶️ اجرای پروژه
-
-python main.py
-
-بعد از اجرای سرور، آدرس نمایش داده‌شده توسط برنامه را در مرورگر باز کنید.
-
-🔄 معماری ارتباط
-
-🎤 Microphone
-      ↓
-🌐 Frontend
-      ↓
-🔌 WebSocket
-      ↓
-🧠 Gemini Live
-      ↓
-🤖 AI Processing
-      ↓
-🔊 Voice Response
-      ↓
-👤 User
-
-🎬 توسعه‌های آینده
-
-- 📺 خواندن خودکار زیرنویس YouTube
-- 🇮🇷 ترجمه زنده زیرنویس به فارسی
-- 🔊 تبدیل زیرنویس فارسی به گفتار
-- 🎧 پشتیبانی بهتر از مکالمه صوتی هم‌زمان
-- 📱 رابط کاربری اختصاصی موبایل
-- 🌍 اضافه کردن زبان‌های بیشتر
-- ⚙️ اجرای پایدار روی سرور
-- 🤖 تبدیل پروژه به دستیار صوتی کامل
-
-🛡️ امنیت
-
-- API Key را در کد اصلی قرار ندهید.
-- اطلاعات حساس را در GitHub منتشر نکنید.
-- فایل ".env" باید در ".gitignore" قرار داشته باشد.
-
-📄 مجوز
-
-این پروژه برای توسعه و آزمایش قابلیت‌های هوش مصنوعی صوتی ساخته شده است.
-
----
-
-🚀 Gemini Voice
-
-هوش مصنوعی + صدا + فارسی = یک دستیار صوتی هوشمند
+</div>
+- 🔊 تبدیل زیرنویس 
